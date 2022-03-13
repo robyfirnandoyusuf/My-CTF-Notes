@@ -15,6 +15,8 @@
 1. Java Decompiler : http://www.javadecompilers.com/
 2. Compiler Explorer : https://godbolt.org/
 
+## OSINT
+1. Find Username https://whatsmyname.app/
 
 # Learning Resources
 
