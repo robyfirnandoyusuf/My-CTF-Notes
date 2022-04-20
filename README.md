@@ -18,6 +18,8 @@
 
 ## OSINT
 1. Find Username https://whatsmyname.app/
+2. a free search engine for AWS cloud assets http://recon.cloud
+
 
 # Learning Resources
 
