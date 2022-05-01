@@ -20,7 +20,8 @@
 1. Find Username https://whatsmyname.app/
 2. Free search engine for AWS cloud assets http://recon.cloud
 
-
+## Tools
+1. Wordlist maker : https://design215.com/toolbox/wordlist.php
 # Learning Resources
 
 ## Forensic
