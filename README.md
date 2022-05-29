@@ -26,3 +26,4 @@
 
 ## Forensic
 1. PNG Specs : https://ctf-wiki.mahaloz.re/misc/picture/png/, https://pyokagan.name/blog/2019-10-14-png/, https://github.com/anirudhvs/pragyan-ctf-22/blob/main/Forensics/Ye_Olde_Threat/writeup.md
+2. Recover JPG height https://blog.cyberhacktics.com/hiding-information-by-changing-an-images-height/
