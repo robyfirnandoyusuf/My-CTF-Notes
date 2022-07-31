@@ -29,3 +29,4 @@
 2. Recover JPG height https://blog.cyberhacktics.com/hiding-information-by-changing-an-images-height/
 3. Various forensics challenges https://bitvijays.github.io/LFC-Forensics.html
 4. USB Forensics https://abawazeeer.medium.com/kaizen-ctf-2018-reverse-engineer-usb-keystrok-from-pcap-file-2412351679f4
+5. USB Forensic Chall https://github.com/vabhishek-me/picoctf-2017-write-up/blob/master/Level%202/Forensics/Just%20Keyp%20Trying.md
